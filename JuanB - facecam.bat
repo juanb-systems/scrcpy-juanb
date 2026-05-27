@@ -1,0 +1,1 @@
+scrcpy --video-source=display --camera-facing=front --camera-size=1280x720
